@@ -1,0 +1,17 @@
+{
+    "name": "ma.wieggers/workshop_p8",
+    "autoload": {
+        "psr-4": {
+            "MaWieggers\\WorkshopP8\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Martijn Wieggers",
+            "email": "127099600+martijnwieggers@users.noreply.github.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}
