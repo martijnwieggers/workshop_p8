@@ -1,6 +1,6 @@
 <?php
 
-class CalculatorPro
+class Calculator
 {
     public function add(float $a, float $b): float
     {
